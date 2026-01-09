@@ -1,5 +1,5 @@
 //Intersection in Y Shaped Lists
-
+//4 jan 
 class Node {
 public:
     int data;
