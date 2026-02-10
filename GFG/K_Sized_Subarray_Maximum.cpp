@@ -14,7 +14,6 @@ class Solution {
                 }
             }
 
-            // Store result
             result.push_back(maxVal);
         }
 

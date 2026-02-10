@@ -1,3 +1,6 @@
+//Miniimum time to visit all points
+//simple approach
+
 class Solution {
     public int minTimeToVisitAllPoints(int[][] points) {
         int ans = 0;
