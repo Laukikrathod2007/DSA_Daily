@@ -1,6 +1,6 @@
 # 🚀 DSA Daily Challenge — 2026
 
-Hi, I'm **Laukik Rathod**, a 2nd-year IT student who loves solving algorithmic problems and contributing to open source.  
+Hi, I'm **Laukik Rathod**, a 3nd-year IT student who loves solving algorithmic problems and contributing to open source.  
 This repo is part of my personal challenge to solve **at least 1 DSA problem every day for the entire year (2026)** and push the solution here — consistently, no excuses, just growth.
 
 ---
@@ -11,7 +11,8 @@ This repo is part of my personal challenge to solve **at least 1 DSA problem eve
 - 🔼 Push solutions daily to stay consistent
 - 🔁 Learn → Apply → Evolve
 
----
+---
+
 ## 🧩 Skills I’m sharpening
 - Algorithms
 - Data structures
